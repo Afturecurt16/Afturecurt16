@@ -1,6 +1,6 @@
 <!-- GitHub profile README | Afturecurt16 -->
 <div align="center">
-  <img width="100%" alt="Ilia Ganenko — Data & Systems Analytics" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,48:1D4ED8,100:7C3AED&text=Ilya%20Ganenko&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Data%20%7C%20Systems%20%7C%20Product%20Analytics&descSize=18&descAlignY=56&animation=fadeIn" />
+  <img width="100%" alt="Ilia Ganenko — Data & Systems Analytics" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,48:1D4ED8,100:7C3AED&text=Ilia%20Ganenko&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Data%20%7C%20Systems%20%7C%20Product%20Analytics&descSize=18&descAlignY=56&animation=fadeIn" />
 
   <a href="https://github.com/Afturecurt16">
     <img src="https://komarev.com/ghpvc/?username=Afturecurt16&label=Profile%20views&color=6366F1&style=flat-square" alt="Profile views" />
