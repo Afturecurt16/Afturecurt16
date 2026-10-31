@@ -71,6 +71,17 @@
   </tr>
 </table>
 
+##Power BI | Аналитические проекты
+
+### Аналитический дашборд
+
+[![Power BI Dashboard](https://raw.githubusercontent.com/Afturecurt16/powerbi-dashboard/main/dashboard.png)](https://github.com/Afturecurt16/powerbi-dashboard)
+
+**Инструменты:** Power BI, Power Query, DAX
+
+[Посмотреть проект и скачать PBIX](https://github.com/Afturecurt16/powerbi-dashboard)
+
+
 ## GitHub Activity
 
 <div align="center">
