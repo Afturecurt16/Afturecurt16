@@ -71,15 +71,46 @@
   </tr>
 </table>
 
-##Power BI | Аналитические проекты
 
-### Аналитический дашборд
+## Power BI | Аналитические проекты
 
-[![Power BI Dashboard](https://raw.githubusercontent.com/Afturecurt16/powerbi-dashboard/main/dashboard.png)](https://github.com/Afturecurt16/powerbi-dashboard)
+### Яндекс — аналитический дашборд
 
-**Инструменты:** Power BI, Power Query, DAX
+<p>Аналитический отчёт Power BI с визуализацией данных и интерактивными элементами.</p>
 
-[Посмотреть проект и скачать PBIX](https://github.com/Afturecurt16/powerbi-dashboard)
+<div align="center">
+  <a href="https://github.com/Afturecurt16/powerbi-dashboard">
+    <img width="95%" alt="Основной дашборд Power BI"
+      src="https://raw.githubusercontent.com/Afturecurt16/powerbi-dashboard/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-31%20120445.png" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="Страница 2"
+        src="https://raw.githubusercontent.com/Afturecurt16/powerbi-dashboard/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-31%20120520.png" />
+    </td>
+    <td width="50%">
+      <img width="100%" alt="Страница 3"
+        src="https://raw.githubusercontent.com/Afturecurt16/powerbi-dashboard/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-31%20120548.png" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img width="85%" alt="Страница 4"
+    src="https://raw.githubusercontent.com/Afturecurt16/powerbi-dashboard/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-10-31%20120609.png" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Afturecurt16/powerbi-dashboard">
+    <img src="https://img.shields.io/badge/VIEW_POWER_BI_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Power BI Project" />
+  </a>
+  <a href="https://github.com/Afturecurt16/powerbi-dashboard/blob/main/Yandex_2024_2025.pbix">
+    <img src="https://img.shields.io/badge/DOWNLOAD_PBIX-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download PBIX" />
+  </a>
+</p>
 
 
 ## GitHub Activity
